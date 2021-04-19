@@ -1,7 +1,9 @@
 import java.util.Stack;
 /*
 
-Referencias: https://www.sanfoundry.com/java-program-implement-binary-tree/
+Referencias:
+https://www.geeksforgeeks.org/binary-tree-data-structure/
+https://www.sanfoundry.com/java-program-implement-binary-tree/
 https://www.youtube.com/watch?v=22AE6WklXBg
 https://www.youtube.com/watch?v=X2XcDn8TPwU
 https://devs4j.com/2017/11/15/arboles-binarios-en-java/
